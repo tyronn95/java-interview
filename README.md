@@ -1,3 +1,14 @@
+# How to answer 
+
+Please do not fork the repository and do not do pull request
+
+Follow this path
+
+* clone the repository
+* write your answer
+* send us a link to your repository
+
+
 # Dependancies
 
 We really like functionnal programming that's why we use [vavr](https://www.vavr.io/) in the test
