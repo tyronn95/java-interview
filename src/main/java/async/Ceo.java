@@ -10,6 +10,14 @@ class Ceo {
     this.name = name;
   }
 
+  public String getId() {
+    return id;
+  }
+
+  public String getName() {
+    return name;
+  }
+
   public String toString() {
     return "Ceo_" + name;
   }

@@ -12,6 +12,14 @@ class Enterprise {
   }
 
 
+  public String getName() {
+    return name;
+  }
+
+  public String getCeoId() {
+    return ceo_id;
+  }
+
   public String toString() {
     return "Enterprise_" + name;
   }
